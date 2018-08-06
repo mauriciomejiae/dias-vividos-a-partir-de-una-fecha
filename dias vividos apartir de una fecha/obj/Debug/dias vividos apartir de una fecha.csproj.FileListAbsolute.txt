@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\dias vividos apartir de una fecha\dias vividos apartir de una fecha\bin\Debug\dias vividos apartir de una fecha.exe.config
+C:\Users\Mauricio M\Downloads\dias vividos apartir de una fecha\dias vividos apartir de una fecha\bin\Debug\dias vividos apartir de una fecha.exe
+C:\Users\Mauricio M\Downloads\dias vividos apartir de una fecha\dias vividos apartir de una fecha\bin\Debug\dias vividos apartir de una fecha.pdb
+C:\Users\Mauricio M\Downloads\dias vividos apartir de una fecha\dias vividos apartir de una fecha\obj\Debug\dias vividos apartir de una fecha.exe
+C:\Users\Mauricio M\Downloads\dias vividos apartir de una fecha\dias vividos apartir de una fecha\obj\Debug\dias vividos apartir de una fecha.pdb
